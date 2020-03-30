@@ -22,15 +22,7 @@
 ### Penjelasan
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(94).png)
 ### Penjelasan
-![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(95).png)
-### Penjelasan
-![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(96).png)
-### Penjelasan
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(97).png)
-### Penjelasan
-![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(98).png)
-### Penjelasan
-![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(99).png)
 ### Penjelasan
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(100).png)
 ### Penjelasan
