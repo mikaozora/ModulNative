@@ -1,9 +1,9 @@
 # ModulNative
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(54).png)
 ### Penjelasan
+#Untuk form login, saya membuat sesuai dengan form login yang saya buat sebelumnya, cuma saya ubah sedikit
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(55).png)
 ### Penjelasan
-#Untuk form login, saya membuat sesuai dengan form login yang saya buat sebelumnya, cuma saya ubah sedikit
 #Untuk Dashboard kalian bisa liat code nya di file index. Untuk Tampilan, saya menggunakan bootstrap. Untuk icon, saya menggunakan fontawesome. Cara memanggilnya adalah dengan <i class="sesuai icon fontawesome"</i>
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(88).png)
 ### Penjelasan
