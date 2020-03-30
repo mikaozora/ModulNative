@@ -41,3 +41,6 @@
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(103).png)
 ### Penjelasan
 #Kita bisa lihat tanggal pinjam Satmika Antargata Ozora yang awalnya 31 Desember 2019 berubah menjadi 2 Januari 2020
+# M O H O N  M A A F
+#### Pak, itu sebenarnya masih error hehehe.... Tapi udah saya cari salahnya dan saya ganti agar kalimat error tidak muncul 
+## HEHEHEHEHEHE :)
