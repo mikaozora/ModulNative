@@ -12,23 +12,32 @@
 ### Penjelasan
 #Untuk data anggota dan peminjaman sama seperti penjelasan data buku
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(90).png)
-### Penjelasan
+## Aksi Tambah Data Buku
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(91).png)
 ### Penjelasan
+#Di dalam form tambah buku terdapat beberapa data yang harus diisi. Setelah kita isi kemudian kita simpan datanya dan akan masuk ke tabel Data Buku
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(92).png)
 ### Penjelasan
+#Kita bisa lihat di baris ke-4. Yang menunjukkan jika data berhasil ditambahkan
+## Aksi Tambah Data Anggota
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(93).png)
 ### Penjelasan
+#Di dalam form tambah anggota terdapat beberapa data yang harus diisi. Setelah kita isi kemudian kita simpan datanya dan akan masuk ke tabel Data Anggota
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(94).png)
 ### Penjelasan
+#Kita bisa lihat di baris ke-5. Yang menunjukkan jika data berhasil ditambahkan
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(97).png)
 ### Penjelasan
+#Di dalam form tambah peminjam terdapat beberapa data yang harus diisi. Setelah kita isi kemudian kita simpan datanya dan akan masuk ke tabel Data Peminjaman
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(100).png)
 ### Penjelasan
+#Untuk gambar di atas, halaman tersebut muncul jika kita mengklik detail yang ada di Tabel Peminjaman. Button form pengembalian tidak bisa kita klik karena di dalam data buku dinyatakan sudah kembali. Namun terlambat mengembalikkan, sehingga dia di kenakkan denda sebesar Rp. 1000
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(101).png)
 ### Penjelasan
+#Gambar di atas merupakan halaman jika kita mengklik button form pengembalian. 
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(102).png)
 ### Penjelasan
+#Gambar di atas merupakan form edit. Halaman tersebut muncul jika kita mengklik edit di tabel peminjaman. Kita hanya bisa mengedit tanggal pinjam. Ketika sudah kita edit maka kita bisa menyimpannya
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(103).png)
 ### Penjelasan
-
+#Kita bisa lihat tanggal pinjam Satmika Antargata Ozora yang awalnya 31 Desember 2019 berubah menjadi 2 Januari 2020
