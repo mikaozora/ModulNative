@@ -32,5 +32,3 @@
 ### Penjelasan
 ![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(103).png)
 ### Penjelasan
-![Alt text](https://github.com/mikaozora/ModulNative/blob/master/Screenshot%20(104).png)
-### Penjelasan
